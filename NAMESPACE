@@ -1,0 +1,3 @@
+importFrom("Kendall", MannKendall)
+importFrom("fitdistrplus", fitdistcens)
+export(gendate,genranges,genloq,genoutlier,genhistogram,genpastoact,genanaggr,genplot,genstatistic,gentransform,genwhisker)
